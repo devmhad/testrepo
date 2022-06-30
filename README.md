@@ -1,4 +1,3 @@
-# testrepo
-this is my first repo
+#edit testrepo
 
-this is the test for editing read me
+trying to edit repo
